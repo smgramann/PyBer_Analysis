@@ -4,7 +4,9 @@
 
 Starter code was provided to kick off the analysis.  Utilizing Python and Pandas a summary dataframe of ride-sharing data by city type was created, which was then leveraged via Pandas and Matplotlib to create a multiple-line graph showing the total weekly fares for each city type.  This data and visual helped summarize trends for decision-makers at Pyber.
 
-## Analysis Results
+## Analysis
+
+### Results
 
 There are clear differences in the ride sharing summary stats when comparing the three city types:  Rural, Suburban, and Urban.  The Rural type had the lowest total rides, drivers, and fares, but had the highest average fare per ride and driver.  The Urban type had the highest total rides, drivers, and fares, but had the lowest average far per ride and driver
 
@@ -23,6 +25,8 @@ Total Fare by City Type when plotted on a time series multi-line chart to repres
 
 
 ## Summary
+
+### Recommendations
 
 The trends identified in this analysis are likely driven by population and geography, which influence the number of rides and drivers as well as distance of each ride thus influencing fare.  To better understand the underlying reasons of these trends to inform decision-making, the following is recommended:
 
